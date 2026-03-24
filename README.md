@@ -1,2 +1,24 @@
-# house-price-prediction
-Developed a machine learning model using Python to predict house prices based on features like location, size, and number of rooms. Performed data preprocessing, feature engineering, and model training using regression algorithms. Utilized Pandas, NumPy, and Scikit-learn for data analysis and prediction.
+# House Price Prediction System
+
+🚀 A machine learning project that predicts house prices using regression algorithms.
+
+## 🔧 Features
+- Predicts house prices based on input features
+- Uses linear regression model
+- Simple and efficient implementation
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📌 Project Overview
+This project demonstrates how machine learning can be used to predict real estate prices based on features like area and number of rooms.
+
+## ▶️ How to Run
+1. Install required libraries  
+2. Run `price_prediction.py`  
+3. View predicted output  
+
+## 👨‍💻 Author
+Sukalyan Chakraborty
